@@ -1,0 +1,2 @@
+# AnimationalBackgroundView
+粒子效果的背景图基于CAEmitterLayer
